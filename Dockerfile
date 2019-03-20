@@ -1,4 +1,4 @@
-FROM 100.125.35.202:20202/op_svc_servicestage/tomcat:8.5-jre8-slim
+FROM tomcat
 
 ENV DIR_WEBAPP /usr/local/tomcat/webapps/
 
